@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boostaboosh
 - 👀 I’m interested in ... being a better programmer
-- 🌱 I’m currently learning ... web development
+- 🌱 I’m currently learning ... Processing
 - 💞️ I’m looking to collaborate on ... cool projects that will add to my experience
 - 📫 How to reach me ...
 
